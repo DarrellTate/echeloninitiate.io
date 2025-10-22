@@ -6,7 +6,6 @@ export default function Home() {
       <div className="logoWrap">
         <img src="/logo_no_text.png" alt="Echelon Logo" className="logo" />
       </div>
-<h6>Prepare</h6>
     </main>
   );
 }
